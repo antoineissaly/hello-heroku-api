@@ -7,7 +7,7 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     """This function handles requests to the root URL and returns 'Hello, World!'."""
-    return "Hello, World!"
+    return "I will be there at 8pm!"
 
 # Define a route for "/api/hello"
 @app.route('/api/hello')
