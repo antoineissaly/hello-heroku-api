@@ -1,0 +1,9 @@
+# Conda
+conda-meta/
+# Python / General
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
